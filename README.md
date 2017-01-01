@@ -1,5 +1,6 @@
 # ArduinoMorseCode
-Claire Roush 1/1/2017
+Claire Roush
+
 A simple program to translate english phrases into morse code and send to the built in LED on the Arduino UNO.
 
 This is a simple test to gain familiarity with the UNO controller. It is began loosely with the Arduino BLINK tutorial
