@@ -10,5 +10,5 @@ The program takes a string and translates it to morse code then dispays the resu
 
 To Do:
 
-Markup : * Extend the program to incorporate user input in some way (other than hard-coded).
-         * Find alternative ways to display morse code (other leds, christmas lights, monitor, sound?)
+* Extend the program to incorporate user input in some way (other than hard-coded).
+* Find alternative ways to display morse code (other leds, christmas lights, monitor, sound?)
