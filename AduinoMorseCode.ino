@@ -16,7 +16,7 @@ void setup() {
 }
 
 void loop() {
-   String str = "Bye";
+   String str = "Hey";
    phraseParse(str);
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
